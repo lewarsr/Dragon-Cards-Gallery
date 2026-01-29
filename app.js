@@ -18,7 +18,7 @@ const App = {
             name: "Frosty", 
             wings: "Thick feathered wings",
             colour: "White",
-            power_description: "Breathes snow and ice, with the ability to manipulate wind and snow. Frosty is half deaf but has great eyesight and smell. Her favorite animal is a penguin.",
+            power_description: "Breathes snow and ice, with the ability to manipulate wind and snow. Frosty only has one good ear, but has great eyesight and smell! Her favorite animal is a penguin.",
             image: "snow_dragon.jpg"
             },
             {
